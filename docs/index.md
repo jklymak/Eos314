@@ -8,7 +8,7 @@ title: Eos 314 Descriptive Physical Oceanography
 Fall 2017
 
 
-![Flow separation behind an airfoil](./figs/Flow_separation.jpg)
+![Salinity in the Pacific Ocean along 150W, from Emery et. al, 2007](./figs/PacificSalinitySmall.jpg)
 
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
