@@ -5,7 +5,7 @@ title:  Distributions of ocean properties
 
 
 # Reading:
-   - [Chapter 4](/DescPo/chapter_4Opt.pdf) of *Talley et al*.  Use the guide below.
+   - [Chapter 4](http://web.uvic.ca/~jklymak/Eos314/DescPo/chapter_4Opt.pdf) of *Talley et al*.  Use the guide below.
    - See also: Stewart Chapter 6...
    - <http://www-pord.ucsd.edu/~ltalley/sio210/Distributions/index.html>
    - For T/S diagrams, Sec 6.4.2 of OU.
