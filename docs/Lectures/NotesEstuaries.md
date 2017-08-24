@@ -38,7 +38,7 @@ title: Estuaries and Conservation of Mass and Volume
 ; dense water cannot make it over a sill
 ; short sill: can get over on strong tides
 ; long sill: can get over on weak tides
-;  Saanich Inlet is a great example. 
+;  Saanich Inlet is a great example.
 --->
 
 ## Mass (of, for instance, salt) and Volume Conservation
@@ -65,15 +65,15 @@ title: Estuaries and Conservation of Mass and Volume
 ## Knudsen Relation
 
   - What is the salinity of a river?
-  - Based on the Knudsen Relation, which term represents the salt transport into the fjord in \\( g/s \\)?
+  - Based on the Knudsen Relation, which term represents the salt transport into the fjord in $ g/s $?
   - Assuming the fjord is in steady state, write an equation for the
-    volume budget (all terms are \\( m^3/s\\) ), and a second equation for the
-    salt budget (all terms are \\( g/s\\) ).  
-  - Assume \\( R \\), \\(S_i\\), and \\(S_o\\) are all known, show that 
+    volume budget $m^3/s$, and a second equation for the
+    salt budget (all terms are $g/s$ ).  
+  - Assume $ R $, $S_i$, and $S_o$ are all known, show that
 	$$Q_i = (S_o R)/(S_i-S_o)$$
-  - If there is no mixing of the river water, what is \\( S_o \\), and how big
-    is \\( Q_i \\)?
-  - If there is lots of mixing, what happens to \\( S_i-S_o \\) and thus \\(Q_i\\)? 
+  - If there is no mixing of the river water, what is $S_o$, and how big
+    is $Q_i$?
+  - If there is lots of mixing, what happens to $S_i-S_o$ and thus $Q_i$?
   - If you were to do the Knudsen calculation on a fjord-type estuary
     versus a flood-plain estuary, which do you think would tend to
     have the smallest difference between the salinities of the
@@ -85,4 +85,3 @@ title: Estuaries and Conservation of Mass and Volume
 
   Please do the questions at the end of the reading based on the Juan
   de Fuca observations by Masson and Cummins ([here](/Readings/Estuaries.pdf)).  
-     
