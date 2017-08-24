@@ -17,7 +17,7 @@ analysis.
 
 # Background Reading
 
-  - [Gargett et al 2003](Readings/GargettEtAl03.pdf)
+  - [Gargett et al 2003](../Readings/GargettEtAl03.pdf)
   - [Manning et al 2010](../Readings/ManningEtAl10.pdf)
 
 # Saanich Inlet Data Analysis
