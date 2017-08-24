@@ -8,7 +8,6 @@ Fall 2017
 
 ![Salinity in the Pacific Ocean along 150W, from Emery et. al, 2007](figs/PacificSalSmall.jpg)
 
-
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
   - Office: [Bob Wright Centre](http://www.uvic.ca/buildings/sci.html) A313
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
