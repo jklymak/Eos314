@@ -4,11 +4,11 @@
 permalink:        pretty
 
 # Setup
-title:            Phy 426 Fluid Mechanics
-tagline:          'Fluid Mechanics'
+title:            Eos 314 Descriptive Physical Oceanography
+tagline:          'EOS 314: Descriptive Physical Oceanography'
 description:      ''
-url:              http://jklymak.github.io/Phy426/
-baseurl:          '/Phy426'
+url:              http://jklymak.github.io/Eos314/
+baseurl:          ''
 
 author:
   name:           'Jody Klymak'
@@ -18,4 +18,4 @@ paginate:         5
 paginate_path: "blog/page:num"
 
 github:
-  repo:           https://github.com/jklymak/Phy426
+  repo:           https://github.com/jklymak/Eos314

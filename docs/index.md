@@ -3,12 +3,10 @@ layout: default
 title: Eos 314 Descriptive Physical Oceanography
 ---
 
-## Eos 314 Descriptive Physical Oceanography
-
 Fall 2017
 
 
-![Salinity in the Pacific Ocean along 150W, from Emery et. al, 2007](./figs/PacificSalinitySmall.jpg)
+![Salinity in the Pacific Ocean along 150W, from Emery et. al, 2007](figs/PacificSalSmall.jpg)
 
 
   - Instructor: [Jody Klymak](http://web.uvic.ca/~jklymak)
@@ -20,40 +18,27 @@ Fall 2017
 
 ## Course Objectives ##
 
-  - Learn the fundamental properties of fluids.
-  - Apply conservation laws to theoretical and practical problems
-  - Gain experience with laboratory methods
-  - Gain experience in written and spoken presentation
-
+The goal of this course is to familiarize students with how the ocean
+moves and what forces cause it to move.  We will discuss wind-driven
+circulation, buoyancy-driven circulation, and the tides.  Along the
+way we will learn about the major current systems, water masses, and
+how the ocean interacts with the atmosphere and climate.
 
 ## Schedule
 
-<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZ2Tmi8zGX8pCgSrf4jDAN--9LXhwSyRjWPwHj0FItENDdJViT87eE4DAOwWnYEGovikh0_GRfHFvP/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="600px" height="400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQVIgoOGtI46FDH_qxoUmOT7n_eEJ8NBPZAjfXxkE62VLiC5Fy8SbLp-pxuuYTVnU_bwHt-pbsdw1B4/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-## [Texts](./Texts/)
+## [Lectures](Lectures/)
 
-Largely [Kundu and Cohen](http://app.knovel.com/web/toc.v/cid:kpFME00004/viewerType:toc/root_slug:fluid-mechanics-4th), 4th edition, but also see [Texts](./Texts/).  
+## [Texts](Texts/)
 
-## Course grading
+Largely [Open University: Ocean Circulation](http://www.sciencedirect.com.ezproxy.library.uvic.ca/science/book/9780750652780) but also see [Texts](./Texts/).  
 
-5% Readings/Class Participation; 30% [Assignments](#Assignments); 35% [Laboratory Project](./LabProject/); 30% Final Exam
+## [Course grading](Grading/)
 
-Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted
-with appropriate documentation as per [UVic's regulations](http://www.uvic.ca/registrar/students/policies/appeals/rac-request.php).
+## [Course Project](CourseProject/)
 
-## [Laboratory Project](./LabProject/)
-
-## Assignments
-
-  - [Assignment 1: Due 3 Feb, 11:30 AM](./Assignments/Assignment1.pdf)    [Key](./Assignments/Assignment1Key.pdf)
-  - [Assignment 2: Due 22 Feb, 11:30 AM](./Assignments/Assignment2.pdf)   [Key](./Assignments/Assignment2Key.pdf)
-  - [Assignment 3: Due 15 Mar, 11:30 AM](./Assignments/Assignment3.pdf)    [Key](./Assignments/Assignment3Key.pdf)
-  - [Assignment 4: Due 4 Apr, 11:30 AM](./Assignments/Assignment4.pdf)     [Key](./Assignments/Assignment4Foil.pdf)
-
-## Take Home final:
-
-- [Take Home Final: Due 11 Apr, 10:00 AM](./Assignments/TakeHome2017.pdf)
-	- [Key](./Assignments/TakeHomeKey.pdf)
+## [Labs](http://web.uvic.ca/~sarahjt/OSM/314Labs/)
 
 ## Course Evaluation Survey
 
@@ -63,11 +48,9 @@ These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should 
 
 Please feel free to contact me through the mailing lists:
 
-[201701-phys426-22537@lists.uvic.ca](mailto:201701-phys426-22537@lists.uvic.ca)
+[201709-eos314-11520@lists.uvic.ca](mailto:201709-eos314-11520@lists.uvic.ca)
 
-To manage your list, have a look at the appropriate page:
-
-[https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537]( https://lists.uvic.ca/mailman/listinfo/201701-phys426-22537)
+[To manage your list](https://lists.uvic.ca/mailman/listinfo/201709-eos314-11520@lists.uvic.ca)
 
 Questions that will benefit all your classmates are very welcome on
 the list.
