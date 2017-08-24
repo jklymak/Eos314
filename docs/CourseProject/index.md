@@ -12,6 +12,7 @@ collected in Saanich Inlet.  The emphasis will be on presenting the
 data and a rough qualitative and quantitative (where possible)
 analysis.
 
+
 ![Booo](../figs/bow.jpg)
 
 # Background Reading
