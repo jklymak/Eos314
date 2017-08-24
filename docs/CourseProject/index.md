@@ -12,12 +12,12 @@ collected in Saanich Inlet.  The emphasis will be on presenting the
 data and a rough qualitative and quantitative (where possible)
 analysis.
 
-![Booo](/figs/bow.jpg)
+![Booo](../figs/bow.jpg)
 
 # Background Reading
 
-  - [Gargett et al 2003](/Readings/GargettEtAl03.pdf)
-  - [Manning et al 2010](/Readings/ManningEtAl10.pdf)
+  - [Gargett et al 2003](../Readings/GargettEtAl03.pdf)
+  - [Manning et al 2010](../Readings/ManningEtAl10.pdf)
 
 # Saanich Inlet Data Analysis
 
@@ -41,7 +41,7 @@ The data will be in a database at:
 ### `BPS`:
    - This year we have Buoyed Profiler System data from Ocean Networks Canada.  There is a map at <http://www.oceannetworks.ca/installations/observatories/salish-sea/saanich-inlet> showing its location.  The CTD and Oxygen data from this profiler is collected usually 4 times a day, though there are data gaps.  I have binned these into 1-day bins and interpolated over most gaps to give a nice time series.  How does this data fit into your observations of the along-channel sections?  
   - <http://dmas.uvic.ca/DataSearch?location=YPVP>
-  - [Slides about BPS Courtesy D. Riddell, ONC](/Readings/EOS311_Nov2016.pdf)
+  - [Slides about BPS Courtesy D. Riddell, ONC](../Readings/EOS311_Nov2016.pdf)
 
 ## Introduction
 
