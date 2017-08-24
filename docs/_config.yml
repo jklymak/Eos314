@@ -8,7 +8,7 @@ title:            Eos 314 Descriptive Physical Oceanography
 tagline:          'EOS 314: Descriptive Physical Oceanography'
 description:      ''
 url:              http://jklymak.github.io/Eos314/
-baseurl:          ''
+baseurl:          '/Eos314'
 
 author:
   name:           'Jody Klymak'
