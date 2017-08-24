@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Texts
+order: 5
 ---
 
 ## Open University: Ocean Circulation and Waves

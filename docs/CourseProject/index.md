@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Course Project
+order: 3
 ---
 
 # Goal

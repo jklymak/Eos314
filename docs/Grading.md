@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Grading
+order: 4
 ---
 
 Late work penalized as 10% per day, max 5 days.  Academic concessions will be granted

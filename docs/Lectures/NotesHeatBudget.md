@@ -5,17 +5,17 @@ title: Heat and Salt Budgets, and Quantifying Mixing
 
 # Reading
   - OU Sec 6.1--6.3
-  - [[./Readings/Mixing.pdf]]
+  - [/Readings/Mixing.pdf](/Readings/Mixing.pdf)
 
-      [[./images/NetHeatTrans.jpg][Oceanic surface heat fluxes with inferred heat transports indicated with arrows]]
+      ![Oceanic surface heat fluxes with inferred heat transports indicated with arrows](/figs/NetHeatTrans.jpg)
 
 # Things to learn
 
 ## Heat Budget
   - Why on the whole does the surface of the ocean receive less
-    insolation than the land?	
+    insolation than the land?
 <!-- albedo, more clouds) -->
-  - What are the terms in the heat equation? 
+  - What are the terms in the heat equation?
 <!--
 [//]: # insolation: shortwave sun.
 [//]: # back reflection: long wave emmisivity.
@@ -69,7 +69,7 @@ title: Heat and Salt Budgets, and Quantifying Mixing
 <!-- [//]: # latitudes and have not had as much time to become humid.   -->
 
 
-## Mixing: 
+## Mixing:
   From [/Readings/Mixing.pdf](/Readings/Mixing.pdf)
 
   - For salt, we've already talked about advection (what comes in, must go out), and evaporation and precipitation (QS).  What extra term can change the salinity at any given location?  
@@ -80,7 +80,7 @@ title: Heat and Salt Budgets, and Quantifying Mixing
 <!-- [//]: # from salty to fresh   -->
   - What is the difference between molecular diffusion and turbulent diffusion?  
 <!-- [//]: # turbulent is like stirring a cup of coffee. -->
-  - What is the approximate time scale to mix a 0.2 m tall beaker of salt-stratified water if the turbulent diffusivity is \\( 10^{-4}\ m^2s^{-1} \\) instead of the molecular diffusivity of \\( 10^{-9}\ m^2s^{-1}\\)? 
+  - What is the approximate time scale to mix a 0.2 m tall beaker of salt-stratified water if the turbulent diffusivity is $ 10^{-4}\ m^2s^{-1} $ instead of the molecular diffusivity of $ 10^{-9}\ m^2s^{-1}$?
 <!--[//]: # about 1 hour   -->
 
 
@@ -99,6 +99,6 @@ between these points.
 
 ## Concepts:
   - parameterization of subgridscale
-  - 
+  -
 </comment>
 --->

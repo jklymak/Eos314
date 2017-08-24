@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Lectures
+order: 2
 ---
 
 ## 6 Sep: Course Introduction

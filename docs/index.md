@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Eos 314 Descriptive Physical Oceanography
+order: 1
 ---
 
 Fall 2017
