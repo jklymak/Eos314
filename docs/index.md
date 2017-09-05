@@ -14,7 +14,8 @@ Fall 2017
   - Tel: (250)-472-5969; Email: [jklymak@uvic.ca](mailto:jklymak@uvic.ca)
   - Office Hours:
   - Meeting time:  TWF 9:30-10:20
-  - Location:  [Sci 121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
+    - Lab meeting time: W 14:30-17:30
+  - Location:  [Sci B121](http://www.uvic.ca/home/about/campus-info/maps/maps/sci.php)
 
 ## Course Objectives ##
 
