@@ -4,9 +4,9 @@ title: Properties of Seawater and  Pressure Gradient Forces
 ---
 
 # Reading
-  - *Skim* Sec 3.1-3.6   [Just Chapter 3](/DescPo/chapter_3Opt.pdf)
+  - *Skim* Sec 3.1-3.6  of *Talley et al* [Just Chapter 3](http://web.uvic.ca/~jklymak/Eos314/DescPo/chapter_3Opt.pdf)
   - Please read my notes on the pressure force:
-    [HydrostaticPressure](/Readings/HydrostaticPressure.pdf)
+    [HydrostaticPressure](../../Readings/HydrostaticPressure.pdf)
 
 
 # Things to know
@@ -14,7 +14,7 @@ title: Properties of Seawater and  Pressure Gradient Forces
 ## Salinity
   - How is salinity defined? (briefly - *Emery et al* go into a lot of
     detail I don't expect you to be responsible for)
-  - How is salinity measured (again, briefly)? 
+  - How is salinity measured (again, briefly)?
 
 ## Temperature
   This should be review of 110 and common knowledge, but there are
@@ -25,8 +25,8 @@ title: Properties of Seawater and  Pressure Gradient Forces
   - What is "potential" temperature, versus "in-situ" temperature?  
 
 
-## Density differences 
-  
+## Density differences
+
   - What three properties of seawater (primarily) determine its
     density?  
   - How does the density vary with those properties?
@@ -117,4 +117,3 @@ title: Properties of Seawater and  Pressure Gradient Forces
 # Exercise
 
 Get it [here](../ExercisePressure).
-

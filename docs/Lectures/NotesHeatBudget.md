@@ -5,9 +5,9 @@ title: Heat and Salt Budgets, and Quantifying Mixing
 
 # Reading
   - OU Sec 6.1--6.3
-  - [/Readings/Mixing.pdf](/Readings/Mixing.pdf)
+  - [Mixing.pdf](../../Readings/Mixing.pdf)
 
-      ![Oceanic surface heat fluxes with inferred heat transports indicated with arrows](/figs/NetHeatTrans.jpg)
+      ![Oceanic surface heat fluxes with inferred heat transports indicated with arrows](../../figs/NetHeatTrans.jpg)
 
 # Things to learn
 
@@ -70,7 +70,7 @@ title: Heat and Salt Budgets, and Quantifying Mixing
 
 
 ## Mixing:
-  From [/Readings/Mixing.pdf](/Readings/Mixing.pdf)
+  From [Mixing.pdf](../../Readings/Mixing.pdf)
 
   - For salt, we've already talked about advection (what comes in, must go out), and evaporation and precipitation (QS).  What extra term can change the salinity at any given location?  
 <!-- [//]: # mixing! -->

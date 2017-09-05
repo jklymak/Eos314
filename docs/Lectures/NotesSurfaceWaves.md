@@ -1,12 +1,12 @@
---
+---
 layout: default
 title: Surface Waves
---
+---
 
 # Reading
   - [Chapter 1](../../Readings/OUWavesChp1.pdf) of Waves, Tides, and Shallow water processes (Open
     University)
-  - See also: [Emery et al.](../../DescPo/Merged.pdf) Sec 15.1--15.3  and Stewart Chp 16 and 17.1--17.3
+  - See also: [Emery et al.](http://web.uvic.ca/~jklymak/Eos314/DescPo/chapter_15Opt.pdf) Sec 15.1--15.3  and Stewart Chp 16 and 17.1--17.3
 
        ![Surfing in Cadboro Bay (http://www.surfingvancouverisland.com/surf/photo01.htm)](../../figs/SurfCaddyBaySm.jpg)
 

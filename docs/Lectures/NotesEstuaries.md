@@ -5,7 +5,7 @@ title: Estuaries and Conservation of Mass and Volume
 
 # Reading
 
-  -  Reading that I have made ([Here](/Readings/Estuaries.pdf))
+  -  Reading that I have made ([Here](../../Readings/Estuaries.pdf))
   -  See also Sec S8.8 of the Supplemental of Talley et al, available
      [Here](http://booksite.academicpress.com/DPO/chapter8.php).  
 
@@ -85,4 +85,4 @@ title: Estuaries and Conservation of Mass and Volume
 # Exercises
 
   Please do the questions at the end of the reading based on the Juan
-  de Fuca observations by Masson and Cummins ([here](/Readings/Estuaries.pdf)).  
+  de Fuca observations by Masson and Cummins ([here](../../Readings/Estuaries.pdf)).  

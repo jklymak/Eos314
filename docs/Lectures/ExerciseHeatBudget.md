@@ -9,7 +9,7 @@ title: Exercise - Budgets
   2. Sketch what the temperature profile below would look like if it
 lost enough heat so that it was a uniform temperature to 100 m?
 
-![Time Series at HOTS](/figs/HotsTsm.jpg)
+![Time Series at HOTS](../../figs/HotsTsm.jpg)
 
   3. How much heat would have to be lost from the surface of the ocean
      for this to happen? Estimate from the temperature profile and
@@ -22,7 +22,7 @@ lost enough heat so that it was a uniform temperature to 100 m?
 
 Based on the following plot, try and answer the following questions:
 
-![From Emery et. al. 2007](/figs/MixedLayerPapaSm.png)
+![From Emery et. al. 2007](../../figs/MixedLayerPapaSm.png)
 
 ***Q*** Why does the mixed layer deepen in the winter?  
 

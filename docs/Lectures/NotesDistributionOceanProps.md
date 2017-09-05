@@ -10,7 +10,7 @@ title:  Distributions of ocean properties
    - <http://www-pord.ucsd.edu/~ltalley/sio210/Distributions/index.html>
    - For T/S diagrams, Sec 6.4.2 of OU.
 
-![Silicate in the Pacific along 125 W (from Lynne Talley's website, above)](/figs/P16_SILCATSm.jpg)
+![Silicate in the Pacific along 125 W (from Lynne Talley's website, above)](../../figs/P16_SILCATSm.jpg)
 
 # Things to understand
 

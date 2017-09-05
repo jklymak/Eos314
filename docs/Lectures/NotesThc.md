@@ -6,16 +6,16 @@ title: Global Thermohaline Circulation
 # Reading
 
   - OU 6.3, 6.4, and 6.6
-  - See also [Stewart](/Readings/Stewart.pdf), Chp 13.1-2, 13.4 (skip Sec 13.3)  
+  - See also [Stewart](../../Readings/Stewart.pdf), Chp 13.1-2, 13.4 (skip Sec 13.3)  
 
 # Things to know
 
 ## Pacific water masses
 
 Please see
-  - [P16Sections.pdf](/Readings/P16Sections.pdf)
-  - [P16Surfaces.pdf](/Readings/P16Surfaces.pdf)
-  - [P16_PvP_letter.jpg](/Readings/P16_PvP_letter.jpg)
+  - [P16Sections.pdf](../../Readings/P16Sections.pdf)
+  - [P16Surfaces.pdf](../../Readings/P16Surfaces.pdf)
+  - [P16_PvP_letter.jpg](../../Readings/P16_PvP_letter.jpg)
 
 
   - identify the following water masses on the salinity cross section:
@@ -42,9 +42,9 @@ Please see
 ## Atlantic water masses
 
 Please see
-  - [A16Sections.pdf](/Readings/A16Sections.pdf)
-  - [A16Surfaces.pdf](/Readings/A16Surfaces.pdf)
-  - [A16_PvP.jpg](/Readings/A16_PvP.jpg)
+  - [A16Sections.pdf](../../Readings/A16Sections.pdf)
+  - [A16Surfaces.pdf](../../Readings/A16Surfaces.pdf)
+  - [A16_PvP.jpg](../../Readings/A16_PvP.jpg)
 
 
   - Where is the subtropical mode water in the North Atlantic?
