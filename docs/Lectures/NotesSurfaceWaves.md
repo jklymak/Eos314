@@ -160,7 +160,7 @@ title: Surface Waves
 
 # Exercise
 
-[Get Exercise here](ExerciseSurfaceWaves)
+[Get Exercise here](../ExerciseSurfaceWaves)
 
 <!--
 
