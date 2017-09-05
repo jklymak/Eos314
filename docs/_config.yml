@@ -17,5 +17,5 @@ author:
 paginate:         5
 paginate_path: "blog/page:num"
 
-github:
-  repo:           https://github.com/jklymak/Eos314
+# github:
+#  repo:           https://github.com/jklymak/Eos314
