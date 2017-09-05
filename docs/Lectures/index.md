@@ -4,6 +4,7 @@ title: Lectures
 order: 2
 ---
 
+Updated: 
 ## 6 Sep: Course Introduction
 
 [Notes Intro](NotesIntro)
