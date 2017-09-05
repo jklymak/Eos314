@@ -50,7 +50,7 @@ Please feel free to contact me through the mailing lists:
 
 [201709-eos314-11520@lists.uvic.ca](mailto:201709-eos314-11520@lists.uvic.ca)
 
-[To manage your list](https://lists.uvic.ca/mailman/listinfo/201709-eos314-11520@lists.uvic.ca)
+[To manage your list](https://lists.uvic.ca/mailman/listinfo/201709-eos314-11520)
 
 Questions that will benefit all your classmates are very welcome on
 the list.
