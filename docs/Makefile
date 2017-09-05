@@ -1,5 +1,5 @@
 build:
-	bundle exec jekyll build
+	bundle exec jekyll build --incremental
 
 upload: build
 	rsync -av _site/ unix.uvic.ca:www/Eos314

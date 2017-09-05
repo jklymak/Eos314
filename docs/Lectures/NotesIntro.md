@@ -9,8 +9,6 @@ title: Notes Introduction
 
 ### Discussion: What activities help you learn?
 
-### Discussion: Condensed format course.
-
 ## Physical Oceanography
 
 ### Why is understanding physical oceanography important?
