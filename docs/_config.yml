@@ -7,12 +7,12 @@ permalink:        pretty
 title:            Eos 314 Descriptive Physical Oceanography
 tagline:          'EOS 314: Descriptive Physical Oceanography'
 description:      ''
-url:              http://jklymak.github.io/Eos314/
-baseurl:          '/Eos314'
+url:              http://web.uvic.ca/~jklymak/Eos314/
+baseurl:          '/~jklymak/Eos314'
 
 author:
   name:           'Jody Klymak'
-  url:            http://web.uvic.ca/~jklymak
+  url:            http://web.uvic.ca/~jklymak/Eos314
 
 paginate:         5
 paginate_path: "blog/page:num"
