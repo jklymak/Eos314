@@ -33,6 +33,7 @@ how the ocean interacts with the atmosphere and climate.
 ## [Lectures](Lectures/)
 
   - [Reading Groups (Check back often!)](ReadingGroups2017.txt)
+  - [Email List](EmailList2017.txt)
 
 ## [Texts](Texts/)
 
