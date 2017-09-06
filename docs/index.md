@@ -32,6 +32,8 @@ how the ocean interacts with the atmosphere and climate.
 
 ## [Lectures](Lectures/)
 
+  - [Reading Groups (Check back often!)](ReadingGroups2017.txt)
+
 ## [Texts](Texts/)
 
 Largely [Open University: Ocean Circulation](http://www.sciencedirect.com.ezproxy.library.uvic.ca/science/book/9780750652780) but also see [Texts](./Texts/).  
