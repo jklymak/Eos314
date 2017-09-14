@@ -16,7 +16,7 @@ title: Estuaries and Conservation of Mass and Volume
   - In figure 3, what direction does each layer flow in order to reach "steady-state"?  
   - If the density differences between the layers are equal, which
     layer will initially have the strongest flow?
-; probably layer 2.
+<!-- ; probably layer 2. -->
   - what are the units of salinity?
   - how do you think salinity is measured to make the figures in the reading (i.e. Fig 5,8, and 10)?
   - What is an "isohaline" and  "isopycnal"?  Why are the terms interchangable in an estuary?
@@ -85,4 +85,4 @@ title: Estuaries and Conservation of Mass and Volume
 # Exercises
 
   Please do the questions at the end of the reading based on the Juan
-  de Fuca observations by Masson and Cummins ([here](../../Readings/Estuaries.pdf)).  
+  de Fuca observations by Masson and Cummins (pages 15-17).  Do *not* do the "Practice questions" on page 18 ([here](../../Readings/Estuaries.pdf)).  
