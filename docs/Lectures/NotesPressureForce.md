@@ -22,6 +22,8 @@ title: Properties of Seawater and  Pressure Gradient Forces
 
   - What is the difference between "temperature" and "heat"
   - What is the accuracy of an oceanic thermistor?  
+  <!---  0.002 deg C....
+  --->
   - What is "potential" temperature, versus "in-situ" temperature?  
 
 

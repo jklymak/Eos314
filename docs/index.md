@@ -45,6 +45,10 @@ Largely [Open University: Ocean Circulation](http://www.sciencedirect.com.ezprox
 
 ## [Labs](http://web.uvic.ca/~sarahjt/OSM/314Labs/)
 
+## Exercise Keys:
+
+  - [Key: Estuaries Exercise](EstuariesKey.pdf)
+
 ## Course Evaluation Survey
 
 These are filled out online at [ces.uvic.ca](http://ces.uvic.ca).  There should be a link to this course on your dashboard.
