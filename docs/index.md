@@ -47,7 +47,8 @@ Largely [Open University: Ocean Circulation](http://www.sciencedirect.com.ezprox
 
 ## Exercise Keys:
 
-  - [Key: Estuaries Exercise](EstuariesKey.pdf)
+  - [Key: Estuaries Exercise](Readings/EstuariesKey.pdf)
+  - [Key: Pressure Exercise](Readings/ExercisePressureGradients.html)
 
 ## Course Evaluation Survey
 

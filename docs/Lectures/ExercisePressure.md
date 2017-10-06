@@ -23,9 +23,7 @@ depth?
 ***Q*** Approximate the strength and sign of the horizontal hydrostatic pressure
 *gradient* at 20, 40, 60 and 80 m, assuming a flat sea surface.  Make
 sure you write out the equation so I can check your math.  Does your
-answer make sense with the answer above?  Hint: discretize the water column by assuming that it consists of 4 20-m layers of water, each with a constant temperature.  Also, don't round off your denisty values too much!
+answer make sense with the answer above?  Hint: discretize the water column by assuming that it consists of 4 20-m layers of water, each with a constant temperature.  Also, don't round off your density values too much!
 
 ***Q*** What must the difference in the sea surface height be at the two
 stations for your estimated horizontal pressure gradient to be zero at *40 m*?  
-
-

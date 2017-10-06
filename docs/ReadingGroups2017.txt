@@ -1,100 +1,81 @@
- 15 Sep T/S/P
-Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
-==================      ==================      ==================      ==================      ==================      
-De Wit, Kim             Jackson-Drouin, Natasha Turner-Collinge, Anna   Nygren, Kirstyn         Gibb, Pandora           
-Poitras, Sylvain        Vermeulen, Bram         Yakimoski, Michaella    Lexmond, Bente          Winder, Bekah           
-Park, Andy              McNabb, Brandon         Cai, Jing               Astle, Zach             Collerman, Joel         
-Sandre, Victoria        Grundy, Ryan            Sullivan, Zack          van Klaveren, Silke     Thraves, Koral          
-Wonders, Kirsten        
-
-
  22 Sep Salt and Heat
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Park, Andy              Nygren, Kirstyn         Winder, Bekah           Jackson-Drouin, Natasha Sullivan, Zack          
-Thraves, Koral          Collerman, Joel         Vermeulen, Bram         Yakimoski, Michaella    Grundy, Ryan            
-van Klaveren, Silke     Lexmond, Bente          Turner-Collinge, Anna   Cai, Jing               Gibb, Pandora           
-Wonders, Kirsten        Astle, Zach             Sandre, Victoria        De Wit, Kim             Poitras, Sylvain        
-McNabb, Brandon         
+Turner-Collinge, Anna   Cai, Jing               Yang, Sining            van Klaveren, Silke     McNabb, Brandon         
+Sandre, Victoria        Lexmond, Bente          Collerman, Joel         Gibb, Pandora           Nygren, Kirstyn         
+Yakimoski, Michaella    Jackson-Drouin, Natasha Grundy, Ryan            Astle, Zach             De Wit, Kim             
+Poitras, Sylvain        Sullivan, Zack          Thraves, Koral          Vermeulen, Bram         Wonders, Kirsten        
 
 
  3 Oct Dist Tracers
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Thraves, Koral          Sandre, Victoria        Sullivan, Zack          Nygren, Kirstyn         Collerman, Joel         
-De Wit, Kim             Jackson-Drouin, Natasha Park, Andy              Wonders, Kirsten        Cai, Jing               
-Turner-Collinge, Anna   Lexmond, Bente          Winder, Bekah           McNabb, Brandon         Vermeulen, Bram         
-Astle, Zach             Poitras, Sylvain        Grundy, Ryan            van Klaveren, Silke     Gibb, Pandora           
-Yakimoski, Michaella    
+Poitras, Sylvain        Turner-Collinge, Anna   Collerman, Joel         Thraves, Koral          Wonders, Kirsten        
+Jackson-Drouin, Natasha Grundy, Ryan            De Wit, Kim             Vermeulen, Bram         Yang, Sining            
+McNabb, Brandon         Cai, Jing               van Klaveren, Silke     Sandre, Victoria        Yakimoski, Michaella    
+Sullivan, Zack          Gibb, Pandora           Nygren, Kirstyn         Astle, Zach             Lexmond, Bente          
 
 
  10 Oct Water Masses
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Collerman, Joel         Nygren, Kirstyn         van Klaveren, Silke     Thraves, Koral          Vermeulen, Bram         
-Wonders, Kirsten        De Wit, Kim             Park, Andy              Yakimoski, Michaella    Gibb, Pandora           
-McNabb, Brandon         Jackson-Drouin, Natasha Sandre, Victoria        Lexmond, Bente          Winder, Bekah           
-Astle, Zach             Sullivan, Zack          Turner-Collinge, Anna   Cai, Jing               Grundy, Ryan            
-Poitras, Sylvain        
+Gibb, Pandora           Sandre, Victoria        Cai, Jing               Collerman, Joel         McNabb, Brandon         
+Grundy, Ryan            Turner-Collinge, Anna   Jackson-Drouin, Natasha Lexmond, Bente          Wonders, Kirsten        
+Yang, Sining            Yakimoski, Michaella    Thraves, Koral          Astle, Zach             Poitras, Sylvain        
+De Wit, Kim             Sullivan, Zack          Nygren, Kirstyn         van Klaveren, Silke     Vermeulen, Bram         
 
 
  17 Oct Waves
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Nygren, Kirstyn         Yakimoski, Michaella    Collerman, Joel         Lexmond, Bente          Wonders, Kirsten        
-Astle, Zach             Jackson-Drouin, Natasha Grundy, Ryan            Sullivan, Zack          Winder, Bekah           
-Park, Andy              Sandre, Victoria        Gibb, Pandora           van Klaveren, Silke     Cai, Jing               
-De Wit, Kim             Turner-Collinge, Anna   Thraves, Koral          McNabb, Brandon         Poitras, Sylvain        
-Vermeulen, Bram         
+Poitras, Sylvain        Nygren, Kirstyn         Turner-Collinge, Anna   van Klaveren, Silke     Cai, Jing               
+Grundy, Ryan            De Wit, Kim             Vermeulen, Bram         Astle, Zach             McNabb, Brandon         
+Wonders, Kirsten        Yang, Sining            Thraves, Koral          Sullivan, Zack          Yakimoski, Michaella    
+Lexmond, Bente          Gibb, Pandora           Jackson-Drouin, Natasha Sandre, Victoria        Collerman, Joel         
 
 
  25 Oct Tides
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Winder, Bekah           Nygren, Kirstyn         Astle, Zach             McNabb, Brandon         Grundy, Ryan            
-Poitras, Sylvain        Thraves, Koral          Sullivan, Zack          van Klaveren, Silke     Gibb, Pandora           
-Vermeulen, Bram         De Wit, Kim             Sandre, Victoria        Collerman, Joel         Turner-Collinge, Anna   
-Wonders, Kirsten        Yakimoski, Michaella    Jackson-Drouin, Natasha Park, Andy              Cai, Jing               
-Lexmond, Bente          
+Turner-Collinge, Anna   Cai, Jing               Wonders, Kirsten        Jackson-Drouin, Natasha Sullivan, Zack          
+Poitras, Sylvain        Vermeulen, Bram         Astle, Zach             Yakimoski, Michaella    Thraves, Koral          
+Collerman, Joel         Grundy, Ryan            McNabb, Brandon         Gibb, Pandora           De Wit, Kim             
+Yang, Sining            Nygren, Kirstyn         van Klaveren, Silke     Lexmond, Bente          Sandre, Victoria        
 
 
  1 Nov Wind-driven Circ
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Gibb, Pandora           McNabb, Brandon         van Klaveren, Silke     Grundy, Ryan            De Wit, Kim             
-Winder, Bekah           Collerman, Joel         Nygren, Kirstyn         Poitras, Sylvain        Lexmond, Bente          
-Thraves, Koral          Turner-Collinge, Anna   Jackson-Drouin, Natasha Astle, Zach             Sandre, Victoria        
-Wonders, Kirsten        Park, Andy              Sullivan, Zack          Yakimoski, Michaella    Vermeulen, Bram         
-Cai, Jing               
+Sullivan, Zack          McNabb, Brandon         Collerman, Joel         Nygren, Kirstyn         Thraves, Koral          
+Vermeulen, Bram         Lexmond, Bente          Gibb, Pandora           Poitras, Sylvain        Astle, Zach             
+Wonders, Kirsten        Turner-Collinge, Anna   De Wit, Kim             Grundy, Ryan            Sandre, Victoria        
+Cai, Jing               Jackson-Drouin, Natasha Yang, Sining            van Klaveren, Silke     Yakimoski, Michaella    
 
 
  3 Nov Geostrophic Balance
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Turner-Collinge, Anna   Lexmond, Bente          Astle, Zach             McNabb, Brandon         Cai, Jing               
-Vermeulen, Bram         Grundy, Ryan            Winder, Bekah           Sandre, Victoria        Thraves, Koral          
-Poitras, Sylvain        Collerman, Joel         Sullivan, Zack          Wonders, Kirsten        Gibb, Pandora           
-Jackson-Drouin, Natasha Park, Andy              van Klaveren, Silke     Nygren, Kirstyn         De Wit, Kim             
-Yakimoski, Michaella    
+Grundy, Ryan            Cai, Jing               Sandre, Victoria        Astle, Zach             Yang, Sining            
+Gibb, Pandora           Yakimoski, Michaella    Thraves, Koral          Jackson-Drouin, Natasha Lexmond, Bente          
+Sullivan, Zack          McNabb, Brandon         Nygren, Kirstyn         Vermeulen, Bram         Collerman, Joel         
+Wonders, Kirsten        Poitras, Sylvain        De Wit, Kim             van Klaveren, Silke     Turner-Collinge, Anna   
 
 
  10 Nov Gyres
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Sullivan, Zack          Gibb, Pandora           Park, Andy              Winder, Bekah           Sandre, Victoria        
-Jackson-Drouin, Natasha Wonders, Kirsten        McNabb, Brandon         Cai, Jing               De Wit, Kim             
-Nygren, Kirstyn         Collerman, Joel         Astle, Zach             Turner-Collinge, Anna   Poitras, Sylvain        
-Lexmond, Bente          Grundy, Ryan            Thraves, Koral          van Klaveren, Silke     Yakimoski, Michaella    
-Vermeulen, Bram         
+Wonders, Kirsten        Poitras, Sylvain        Gibb, Pandora           Thraves, Koral          Nygren, Kirstyn         
+Lexmond, Bente          Astle, Zach             Turner-Collinge, Anna   Vermeulen, Bram         van Klaveren, Silke     
+Sullivan, Zack          Yakimoski, Michaella    Yang, Sining            McNabb, Brandon         Jackson-Drouin, Natasha 
+Grundy, Ryan            Sandre, Victoria        Cai, Jing               Collerman, Joel         De Wit, Kim             
 
 
  22 Nov Equator and Southern Ocean
 Group 1                 Group 2                 Group 3                 Group 4                 Group 5                 
 ==================      ==================      ==================      ==================      ==================      
-Sandre, Victoria        Collerman, Joel         Wonders, Kirsten        Gibb, Pandora           Jackson-Drouin, Natasha 
-Sullivan, Zack          Yakimoski, Michaella    van Klaveren, Silke     Vermeulen, Bram         Winder, Bekah           
-Cai, Jing               Lexmond, Bente          Nygren, Kirstyn         Park, Andy              Astle, Zach             
-De Wit, Kim             Turner-Collinge, Anna   Poitras, Sylvain        Grundy, Ryan            McNabb, Brandon         
-Thraves, Koral          
+Poitras, Sylvain        Collerman, Joel         Grundy, Ryan            Sullivan, Zack          Lexmond, Bente          
+Yakimoski, Michaella    Yang, Sining            Astle, Zach             Nygren, Kirstyn         Cai, Jing               
+Vermeulen, Bram         Wonders, Kirsten        van Klaveren, Silke     Turner-Collinge, Anna   De Wit, Kim             
+Jackson-Drouin, Natasha Sandre, Victoria        Thraves, Koral          McNabb, Brandon         Gibb, Pandora           
 
 

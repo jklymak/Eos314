@@ -24,3 +24,5 @@ of water is isolated from other water masses).
 
 **Q** What three Atlantic water masses can you identify in the figure
 below (four if you count the surface water)?
+
+ ![T/S diagram from 9 S in the Atlantic](../../figs/TSMeteor.jpg)
