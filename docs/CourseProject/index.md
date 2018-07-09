@@ -39,8 +39,11 @@ The data will be in a database at:
   - A 1-m vertical grid of the CTD casts: `CtdGrid.mat`
   - The variables should be self explanatory. One exception is `cgrid.alongx`, which is an along-inlet co-ordinate system that is useful if you want to plot x,z,T plots (for instance).  This has varied a bit over the years, and for 2016 is the distance from the head of the inlet.  Other years it has been distance from S4.  Sorry for the confusion, but distance from S4 is not a very good co-ordinate system if you don't always do the same line.  To correct, you need to find the cast with `S4` data in it and subtract its value of `cgrid.alongx` from the rest to compare with other years.  
 
+### `Hallam`:
+  - This year we have data from the UBC Hallam lab of monthly CTDs from 2015 to the present.  They are collected near S4, and are extremely valuable in putting the data sets we collect into context.  Note that their fluorometer has issues.  
+
 ### `BPS`:
-   - This year we have Buoyed Profiler System data from Ocean Networks Canada.  There is a map at <http://www.oceannetworks.ca/installations/observatories/salish-sea/saanich-inlet> showing its location.  The CTD and Oxygen data from this profiler is collected usually 4 times a day, though there are data gaps.  I have binned these into 1-day bins and interpolated over most gaps to give a nice time series.  How does this data fit into your observations of the along-channel sections?  
+   - Last year we had Buoyed Profiler System data from Ocean Networks Canada.  There is a map at <http://www.oceannetworks.ca/installations/observatories/salish-sea/saanich-inlet> showing its location.  The CTD and Oxygen data from this profiler is collected usually 4 times a day, though there are data gaps.  I have binned these into 1-day bins and interpolated over most gaps to give a nice time series.  How does this data fit into your observations of the along-channel sections?  
   - <http://dmas.uvic.ca/DataSearch?location=YPVP>
   - [Slides about BPS Courtesy D. Riddell, ONC](../Readings/EOS311_Nov2016.pdf)
 
@@ -63,6 +66,8 @@ the ship was at different positions.  The Inlet location should be
 indicated on a larger regional map as well.  Below you are asked to
 compare with previous seasons and other years.  Indicate which
 station(s) you are using to make this comparison.  
+
+This section is *short*!
 
 ### Tides
 
@@ -98,7 +103,7 @@ Similarly, we visit at different times of year.  Is the inlet different in Jan, 
 
 ### Cruise CTD Section
 
-We ran from the Haro Strait to Saanich Inlet in `201407`, `201509a`, `201510`, `201609a`, `201609b`, and `201610`.  Plot the sections, preferably in space.  Make sure to indicate salinity, temperature, O2, and fluorescence (the radiometer is less useful), and from that density.  How and where do the water masses change in Satellite Channel?  Preference would be to focus on 2016 data, but you are free to look at the previous cruises as well to compare and contrast.
+We ran from the Haro Strait to Saanich Inlet in `201407`, `201509a`, `201510`, `201609a`, `201609b`, `201610`, `201709`, `201709b`, and `201710`.  Plot the sections, preferably in space.  Make sure to indicate salinity, temperature, O2, and fluorescence (the radiometer is less useful), and from that density.  How and where do the water masses change in Satellite Channel?  Preference would be to focus on 2017 data, but you are free to look at the previous cruises as well to compare and contrast.
 
 ### General presentation hints:
 

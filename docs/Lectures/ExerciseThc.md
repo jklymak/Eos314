@@ -16,9 +16,13 @@ moves?
 As you move along the path of the water, why does the water at about 5 degrees C get saltier and then fresher
 again?  
 
-[T-S properties in Pacific](/figs/P15TSPropssm.jpg)
+![T-S properties in Pacific](../../figs/P15TSPropsSm.png)
 
-This plot is also available in [higher resolution](/Readings/P15TSProps.pdf) (5 Mb).  
+
+This plot is also available in
+
+  - [higher resolution](../../figs/P15TSProps.png) (390 Kb).  
+  - [full resolution](../../Readings/P15TSProps.pdf) (5 Mb).  
 
 # Inverse modelling
 

@@ -4,7 +4,7 @@ title: Eos 314 Descriptive Physical Oceanography
 order: 1
 ---
 
-Fall 2017
+Fall 2018
 
 
 ![Salinity in the Pacific Ocean along 150W, from Emery et. al, 2007](figs/PacificSalSmall.jpg)
@@ -32,8 +32,8 @@ how the ocean interacts with the atmosphere and climate.
 
 ## [Lectures](Lectures/)
 
-  - [Reading Groups (Check back often!)](ReadingGroups2017.txt)
-  - [Email List](EmailList2017.txt)
+  - [Reading Groups (Check back often!)](ReadingGroups2018.txt)
+  - [Email List](EmailList2018.txt)
 
 ## [Texts](Texts/)
 
@@ -47,8 +47,27 @@ Largely [Open University: Ocean Circulation](http://www.sciencedirect.com.ezprox
 
 ## Exercise Keys:
 
+
+{% comment %}
   - [Key: Estuaries Exercise](Readings/EstuariesKey.pdf)
   - [Key: Pressure Exercise](Readings/ExercisePressureGradients.html)
+  - [Key: Diffusion Exercise](html/ExDiffFlux.html)
+  - [Key: T/S plots Exercise](Readings/keyFour.pdf)
+  - [Key: THC Exercise](Lectures/KeyThc/)
+  - [Key: Tides](Lectures/KeyTides/)
+  - [Key: Waves](Lectures/KeyWaves/)
+  - [Key: Coriolis and Ekman](Lectures/KeyCoriolis/)
+  - [Key: Geostrophic Balance](Lectures/KeyGeostrophic/)
+  - [Key: Gyre Circulation](Lectures/KeyGyre/)
+  - [Key: Other Currents](Lectures/KeyOtherCurrents/)
+
+  - [Key: Quiz2](Readings/quiz22017Key.pdf)
+{% endcomment %}
+## Videos
+
+  - [Motor boat showing dispersive wake](https://www.youtube.com/watch?v=lWi_KpBy8kU])
+  - [Video of group versus phase speed ](https://www.youtube.com/watch?v=tlM9vq-bepA)
+  - [More on Coriolis Force](Lectures/MoreCoriolis/)
 
 ## Course Evaluation Survey
 
